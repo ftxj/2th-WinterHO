@@ -1,0 +1,9 @@
+CM.make "sources.cm";
+CM.make "support/support.cm";
+Tester.testNumEdges ();
+Tester.testNumVertices ();
+Tester.testOutNeighbors ();
+Tester.testReport ();
+Tester.testNumWords ();
+Tester.testSynonyms ();
+Tester.testQuery ();
